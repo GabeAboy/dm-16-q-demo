@@ -1,0 +1,18 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  background-color: #808080;
+}
+
+.jumbotron {
+  background-color: #fff;
+  min-height: 50vh;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.error {
+  color: red;
+}
